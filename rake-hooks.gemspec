@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.name        = "rake-hooks"
   s.version     = Rake::Hooks::VERSION
   s.email       = ["guillermo@cientifico.net", "joel@developwithstyle.com"]
-  s.authors     = ["Guillermo Álvarez", "Joel Moss"]
+  s.authors     = ["Guillermo Alvarez", "Joel Moss"]
   s.summary     = "Add after and before hooks to rake tasks"
-  s.description = "Add after and before hooks to rake tasks. You can use \"after :task do ... end\" and \"before :task do ... end\"."
+  s.description = "Add after and before hooks to rake tasks. You can use after :task do ... end and before :task do ... end."
 
   s.rubyforge_project = "rake-hooks"
 
